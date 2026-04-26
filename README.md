@@ -30,4 +30,4 @@ which starting and ending station has higest duration traveled.
 what type of power the stations are using.
 
 6. Dashboard preview
-   https://github.com/pranav2562/Power-BI-Project/blob/main/Austin%20bike%20sahring%20dashboard%20preview.png
+   ![Dashboard Preview].(https://github.com/pranav2562/Power-BI-Project/blob/main/Austin%20bike%20sahring%20dashboard%20preview.png)
