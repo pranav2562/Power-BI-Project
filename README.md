@@ -34,13 +34,10 @@ Data was extracted from BigQurey under an open data source.
    
 The pupose was to solve the business descision like:
 
-if one station more bikes parked, and is their any problem.
-
-which type of subscriber crowed is more and which type of bike they perfers.
-
-which starting and ending station has higest duration traveled.
-
-what type of power the stations are using.
+If one station more bikes parked, and is their any problem.
+Which type of subscriber crowed is more and which type of bike they perfers.
+Which starting and ending station has higest duration traveled.
+What type of power the stations are using.
 
 6. Dashboard preview
    ![Dashboard Preview].(https://github.com/pranav2562/Power-BI-Project/blob/main/Austin%20bike%20sahring%20dashboard%20preview.png).
